@@ -1,0 +1,8 @@
+pyspark
+delta-spark
+pandas
+langgraph
+langchain
+langchain-ollama
+requests
+scipy
