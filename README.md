@@ -1,5 +1,9 @@
 # Agentic Data Quality Monitoring System
 
+## Architecture
+
+![Architecture](docs/architecture.png)
+
 ## Overview
 
 This project demonstrates an end-to-end Agentic Data Quality Monitoring System built using Databricks, PySpark, LangGraph, and Ollama (Llama 3.2).
